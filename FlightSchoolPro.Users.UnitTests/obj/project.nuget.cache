@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9HtlEbb0zp0XrnercdGvkxErH4YfQYNjsVjiZWgAuRQf/KTqSkvSRPiPBpa3iMKJW8qj/JwYPaTcCMxSyq99LQ==",
+  "dgSpecHash": "d4enyIOoR5KDpRbHDYBcavbe7ujWGP5y2GlQCJ5KOniAv2nCdIQZyi87w1J1XRco2sd+kLpYw8/vXCxSS8uQ0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\cdrye\\Documents\\PersonalRepos\\FlightSchoolPro.UserAPI\\FlightSchoolPro.Users.UnitTests\\FlightSchoolPro.Users.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\cdrye\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.21\\microsoft.entityframeworkcore.3.1.21.nupkg.sha512",
     "C:\\Users\\cdrye\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.21\\microsoft.entityframeworkcore.abstractions.3.1.21.nupkg.sha512",
     "C:\\Users\\cdrye\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.21\\microsoft.entityframeworkcore.analyzers.3.1.21.nupkg.sha512",
+    "C:\\Users\\cdrye\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.0.0\\microsoft.entityframeworkcore.inmemory.3.0.0.nupkg.sha512",
     "C:\\Users\\cdrye\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.21\\microsoft.entityframeworkcore.relational.3.1.21.nupkg.sha512",
     "C:\\Users\\cdrye\\.nuget\\packages\\microsoft.entityframeworkcore.relational.design\\1.1.6\\microsoft.entityframeworkcore.relational.design.1.1.6.nupkg.sha512",
     "C:\\Users\\cdrye\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.21\\microsoft.entityframeworkcore.sqlserver.3.1.21.nupkg.sha512",
